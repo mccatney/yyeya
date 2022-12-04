@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+body,td,th {
+	font-family: Ubuntu, Tahoma, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+	background-color: #F2F2F2;
+}
+.title {
+	color:#FFF;
+	background-color:#690069;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.main_width {
+	max-width:90%;
+	width:800px;
+	margin:auto;
+}
+.rres_nav {
+	padding-left:0px;
+	padding-right:0px;
+}
+.pp_bg {
+	background-color:#990099;
+	border-color:#3E152B;
+}
+.main_cont {
+	min-height:79vh;
+	padding-top:20px;
+}
+.no_text_dec {
+	text-decoration:none;
+}
+.select_center {
+	padding-left:20%;
+}
+.card-transparent {
+				border:0;
+        background: none;
+}
+
+.card-transparent .card-body{
+        background: rgba(255, 255, 255, 0.4)!important;
+}
+.t-table
+{
+	background: rgba(255, 255, 255, 0.4)!important;
+}
